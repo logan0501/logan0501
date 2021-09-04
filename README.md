@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Iam Loganathan D
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Iam Loganathan D
 <hr>
 
 Glad to see you here! 
@@ -116,7 +116,10 @@ I ♥️ to
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
   
-  
-![Loganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan0501&show_icons=true&theme=radical)
+![Loganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan0501&theme=dark&show_icons=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan0501&layout=compact)](https://github.com/logan0501/github-readme-stats)
