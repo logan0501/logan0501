@@ -90,6 +90,7 @@ I ♥️ to
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   
 >IDES/EDITORS
 
@@ -114,12 +115,17 @@ I ♥️ to
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  
+ 
+ 
+<hr>
   
 ![Loganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan0501&theme=dark&show_icons=true)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
- 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan0501&layout=compact)](https://github.com/logan0501/github-readme-stats)
+
+<div align="center">
+	<p>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</p>
+
+	Show some ❤️ by starring some of the repositories!
+	Also drop a ⭐ if you like my profile!
+</div>
+
