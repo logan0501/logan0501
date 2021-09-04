@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Iam Loganathan D
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Iam Loganathan D</h1>
 <hr>
 
 Glad to see you here! 
@@ -118,14 +118,17 @@ I ♥️ to
  
  
 <hr>
-  
-![Loganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan0501&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logan0501&layout=compact)](https://github.com/logan0501/github-readme-stats)
 
-<div align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=logan0501&theme=dark&show_icons=true"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=logan0501&theme=dark" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logan0501&layout=compact" /></p>
+
+
+
+<p align="center">
 	<p>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</p>
 
 	Show some ❤️ by starring some of the repositories!
 	Also drop a ⭐ if you like my profile!
-</div>
+</p>
 
