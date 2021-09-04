@@ -123,12 +123,10 @@ I ♥️ to
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=logan0501&theme=dark" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logan0501&layout=compact" /></p>
 
+<hr>
 
+<p align="center">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</p>
+<p align="center">Show some ❤️ by starring some of the repositories!</p>
+<p align="center">Also drop a ⭐ if you like my profile!</p>
 
-<p align="center">
-	<p>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</p>
-
-	Show some ❤️ by starring some of the repositories!
-	Also drop a ⭐ if you like my profile!
-</p>
 
