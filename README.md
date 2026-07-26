@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Engineer at Truemeds**, building distributed, event-driven systems in **Java/Spring Boot** and **Go**. Around 3.5 years in, my work sits mostly in logistics and supply-chain backends — courier allocation, delivery-date promises, and the asynchronous pipelines that keep them fed.
+I'm a **Backend Engineer at Truemeds**, building distributed, event-driven systems in **Java/Spring Boot** and **Go**. Around 3 years in, my work sits mostly in logistics and supply-chain backends — courier allocation, delivery-date promises, and the asynchronous pipelines that keep them fed.
 
 I care a lot about the unglamorous parts: idempotency, safe rollouts of changes to live decision systems, and making sure a job that runs at 3 AM can crash halfway through and resume without anyone waking up.
 
@@ -38,9 +38,9 @@ I run a YouTube channel — **Learn with Loganathan** — where I teach **DSA in
 ### 💼 Experience
 
 - **Truemeds** — Software Engineer · *Jan 2026 – Present*
-  Logistics backend: courier allocation, delivery-promise systems, and the batch pipelines behind them. Go and Java.
+  - Logistics backend: courier allocation, delivery-promise systems, and the batch pipelines behind them. Go and Java.
 - **Tekion** — Software Engineer I *(promoted from Associate Software Engineer)* · *Jul 2023 – Jan 2026*
-  Vehicle inventory platform: Kafka-driven near-real-time inventory updates, Elasticsearch and MongoDB at the storage layer, and APIs reconciling data across multiple upstream sources.
+  - Vehicle inventory platform: Kafka-driven near-real-time inventory updates, Elasticsearch and MongoDB at the storage layer, and APIs reconciling data across multiple upstream sources.
 
 ### 🎓 Education
 
